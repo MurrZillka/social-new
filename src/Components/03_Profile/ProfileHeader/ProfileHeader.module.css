@@ -1,0 +1,9 @@
+.picture {
+    background-color: gray;
+    background-image: url('https://cdn.pixabay.com/photo/2016/05/05/02/37/sunset-1373171_960_720.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 150px;
+}

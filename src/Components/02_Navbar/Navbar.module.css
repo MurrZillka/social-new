@@ -1,0 +1,14 @@
+.navbar {
+    grid-area: n;
+    background-color: purple;
+    padding: 20px;
+}
+
+.item {
+    color: white;
+    margin-bottom: 20px;
+}
+
+.item a {
+    color: inherit;
+}
